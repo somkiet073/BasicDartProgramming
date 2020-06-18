@@ -64,7 +64,7 @@ void main() {
 }
 
 class People {
-  String sayHi() => "Hi!";
+  String sayHi() => "Hi Somkiet!";
 }
 
 class Test {
